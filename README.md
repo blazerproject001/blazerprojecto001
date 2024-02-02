@@ -1,5 +1,5 @@
 
-- 👋 Olá, sou @pure-cybernetic
+- 👋 Olá, sou @blazerprojecto001
 - 👀 Estou interessado em Tecnologias de Informacao
 - 🌱 Atualmente estou aprendendo sobre Desenvolvimento Web
 - 💞️ Procuro colaborar em Desenvolvimento Web/Mobile
